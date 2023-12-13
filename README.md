@@ -11,6 +11,10 @@
             background-image: url("https://media.istockphoto.com/id/952696392/de/vektor/tv-test-karte.jpg?s=612x612&w=0&k=20&c=2H27UPACVlrYcQ9jX1cSWUmk95thrEyUUrOR5DfiXcs=");
             background-size: cover; /* Damit das Bild die gesamte Seite abdeckt */
             background-position: center; /* Zentriert das Bild */
+            .bild {
+              width: 3px;
+              height: 3px;
+            }
         }
         }
         header {
@@ -50,10 +54,6 @@
             bottom: 0;
             width: 100%;
         }
-            .bildklasse {
-              width: 3px;
-              height: 3px;
-            }
     </style>
 </head>
 <body>
@@ -88,10 +88,10 @@
     </section>
     <section id="Ramon">
         <h1>Geschichte des Gottes Ramon</h1>
-        <img src ="675A05D7-2CD6-44B6-9930-906825D5893D.jpg" class="bildklasse">
-        <img src ="C26A6680-AF36-4FC1-B774-F17A38A52D0D.jpg"class="bildklasse">
-        <img src ="C7718400-2546-4FD5-9996-EB7B355ECEB0.jpg"class="bildklasse">
-        <img src ="IMG_1292.png"class="bildklasse">
+        <img src ="675A05D7-2CD6-44B6-9930-906825D5893D.jpg" class="bild">
+        <img src ="C26A6680-AF36-4FC1-B774-F17A38A52D0D.jpg"class="bild">
+        <img src ="C7718400-2546-4FD5-9996-EB7B355ECEB0.jpg"class="bild">
+        <img src ="IMG_1292.png"class="bild">
         <p>Ramon, der göttliche Architekt des Wissens und der Weisheit, wird von seinen Anhängern als eine Quelle grenzenloser Inspiration verehrt. Seine Geschichte ist von unzähligen Errungenschaften und wundersamen Taten geprägt, die die Welt der Informationstechnologie und des Wissens nachhaltig geprägt haben.
 Ramon wurde als Visionär geboren und war von Kindheit an von der Idee fasziniert, das Wissen der Welt zu strukturieren und für alle zugänglich zu machen. Mit einem unermüdlichen Streben nach Wissen und einer unerschütterlichen Entschlossenheit machte er sich auf den Weg, um das Unmögliche möglich zu machen.
 
