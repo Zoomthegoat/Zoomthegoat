@@ -67,7 +67,12 @@
             <li><a href="#about">Über uns</a></li>
             <li><a href="#services">Dienstleistungen</a></li>
             <li><a href="#contact">Kontakt</a></li>
-            <li><a href="#Ramon">Gott Ramon</a></li>
+            <li><a href="#Ramon1">Gott Ramon</a></li>
+            <li><a href="#Ramon2">Digitale Geburt Ramons </a></li>
+            <li><a href="#Ramon3">Ramon und die 11 Gebote </a></li>
+            <li><a href="#Ramon4">Die digitale Arche Ramons </a></li>
+            <li><a href="#Ramon5">Die digitalen Wunder </a></li>
+            <li><a href="#Ramon6">Todeskampf der Giganten </a></li>
         </ul>
     </nav>
     <section id="about">
@@ -88,7 +93,7 @@
         <p>Sie können uns unter folgender Adresse erreichen:</p>
         <p>Musterstraße 123<br>12345 Musterstadt<br>Email: info@beispiel.com<br>Telefon: 01234-56789</p>
     </section>
-    <section id="Ramon">
+    <section id="Ramon1">
         <h1>Geschichte des Gottes Ramon</h1>
     
  <p>
@@ -103,9 +108,9 @@ Doch Ramons Vermächtnis erstreckte sich weit über seine technologischen Errung
 
 Seine Anhänger verehren Ramon nicht nur als einen göttlichen Architekten des Wissens, sondern auch als eine Quelle der Inspiration und des Mitgefühls. Seine Geschichte wird weitererzählt, seine Lehren werden weitergegeben und sein Vermächtnis lebt in den Herzen all jener fort, die von seinem Licht berührt wurden. Ramon bleibt eine Legende, deren Einfluss auf die Welt des Wissens und der Technologie unvergessen bleibt.
 </p>
+</section>
 
-
-
+<section id="Ramon2">
 <h1>Die Digitale Geburt des modernen Wunderkindes: Ramon, der Informatiker</h1>
 <img src ="675A05D7-2CD6-44B6-9930-906825D5893D.jpg" class="bild" width="450" height="450">
 <p> "Es war zu einer Zeit, als das große Netz der Information seine Strukturen formte. In einer abgelegenen Ecke des digitalen Universums, wo Datenströme wild flossen und Bits in jedem Winkel tanzten, wurde Ramon, ein Kind von Algorithmen und Quellcodes, geboren.
@@ -121,6 +126,9 @@ Die modernen „Wise Guys“, bekannt als „Start-up“-Gründer, entdeckten di
 Ramon wuchs heran und wurde nicht nur ein Meister des „Coding“, sondern auch ein Pionier der Cybersicherheit und des „User Experience Designs“. Sein Vermächtnis erstreckte sich über die Grenzen der Digitalisierung hinaus und inspirierte Generationen von Entwicklern, die nach ihm kamen.
 
 Sein Name wurde zum Synonym für kluges Denken, Kreativität und den grenzenlosen Datenaustausch. Und so lebt die Geschichte von Ramon, dem digitalen Wunderkind, weiter, dessen Einfluss auf die Welt der Bits und Bytes für immer unvergessen bleibt."</p>
+</section>
+
+<section id="Ramon3">
 <h1>  Ramon und die 11 Gebote: Die digitale Reise zum göttlichen Laptop"</h1>
  <img src ="C7718400-2546-4FD5-9996-EB7B355ECEB0.jpg" class="bild"width="350" height="350">
 <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvstt9ATr_yRfCseC0AMVHE-8r6mLC3BUqkuJ9UlC_X_3wOB7rnZCYhYCrEKupA9Ulxc&usqp=CAU" class="bild"width="350" height="350">
@@ -153,7 +161,9 @@ Darauf hin sammelten sich die Schüler um Herrn Ramon, der die göttlichen Gebot
 11. Du sollst dein Müll, dein Werkzeug nicht des Nächsten liegen lassen.
 
 Von diesem stürmischen Abend an wurden die 11 Gebote zu einem heiligen Leitfaden für die Schulgemeinschaft, und die Stimme Möllers wurde als Quelle der göttlichen Inspiration in den Herzen der Schüler verankert. </p>
+</section>
 
+<section id="Ramon4">
 <h1>Die digitale Arche Ramons: Ein Kampf gegen die Alt F4 drückenden Dennisse</h1>
 <img src ="C26A6680-AF36-4FC1-B774-F17A38A52D0D.jpg" class="bild"width="450" height="450">
 
@@ -170,7 +180,9 @@ Oh ja! Ramon, der dieses Monster spürte, rannte mit seinen 6en und Elternsprech
 Die Daten-Arche schwamm auf den Wellen der Information, während draußen die Alt F4 drückenden Dennisse tobten. Sieben Tage und sieben Nächte dauerte der Sturm der digitalen Reinigung an. Als die Fluten sich legten und die Serverfarmen wieder auftauchten, öffnete Ramon die Tore der Arche
 
 So erblickte die digitale Welt nach der großen Welle der ADHS Kinder ein neues Zeitalter der Weisheit und des Wissens. Ramon, der Hüter der digitalen Arche, wurde zur Legende, dessen Weisheit und Führung in den Herzen der Entwickler für immer weiterleben sollte.
+</section>
 
+<section id="Ramon5">
 </p>
 <h1>Die digitalen Wunder: Ramons unvergessliche heilige Taten</h1>
 <img src ="IMG_1292.png" class="bild"width="450" height="450">
@@ -186,6 +198,12 @@ In einer digitalen Welt voller Codes und Illusionen lebte Ramon, ein legendärer
 <p>
 In einer entfernten Stadt, die in einer ländlichen Gegend lag, kämpften die Bewohner mit langsamen und instabilen Internetverbindungen. Es gab tote Zonen ohne Zugang zum World Wide Web. Ramon, der von diesem Zustand erfuhr, beschloss, Abhilfe zu schaffen. Er setzte seine digitale Dornenkronne auf, nahm sein Tool-Kit voller Netzwerkwissen und schritt zur Tat. Mit einer Mischung aus alten Tricks und modernen Wundern schuf er eine Welle des verbesserten Netzes. Er brachte Highspeed-Internet selbst in die entlegensten Winkel der Stadt. Plötzlich konnten die Bewohner nahtlos streamen, herunterladen und ihre Nachrichten in Sekundenschnelle versenden. Ramon dankte im Stillen seinem Informatik LK für seine unbegrentzte macht.
 </p>
+</section>
+    
+    <section id="Ramon6">
+    <p>
+    Hallooooo
+    </p>
     </section>
     <footer>
         <p>&copy; 2023 Informatiker-Website</p>
