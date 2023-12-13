@@ -96,7 +96,7 @@ Doch Ramons Vermächtnis erstreckte sich weit über seine technologischen Errung
 
 Seine Anhänger verehren Ramon nicht nur als einen göttlichen Architekten des Wissens, sondern auch als eine Quelle der Inspiration und des Mitgefühls. Seine Geschichte wird weitererzählt, seine Lehren werden weitergegeben und sein Vermächtnis lebt in den Herzen all jener fort, die von seinem Licht berührt wurden. Ramon bleibt eine Legende, deren Einfluss auf die Welt des Wissens und der Technologie unvergessen bleibt.
 </p>
-<image scr =" https://github.com/Zoomthegoat/Ramon_Bilder.git ">
+<image scr ="https://github.com/Zoomthegoat/Ramon_Bilder.git">
     </section>
     <footer>
         <p>&copy; 2023 Informatiker-Website</p>
