@@ -203,9 +203,10 @@ In einer entfernten Stadt, die in einer ländlichen Gegend lag, kämpften die Be
 
 
 <h1>Silicon Symphony: Kampf der Giganten </h1>
-<img src ="" class="bild" width="350" height="350">
-<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRL8_xF0aUjXAUf5z8y-xJKfEdoomnV3PZQ&usqp=CAU" class="bild" width="250" height="250">
-<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWyxIDoLK-QLTh7j4Fkn_q0YCPql-52OoSQ&usqp=CAU" class="bild" width="350" height="350">
+<img src ="ca39457c-1592-4204-953b-d6f14daa0757.jpg" alt="Gott Ramon" class="bild" width="250" height="250" <figcaption>⠀⠀⠀⠀⠀⠀⠀Gott Ramon </figcaption> 
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRL8_xF0aUjXAUf5z8y-xJKfEdoomnV3PZQ&usqp=CAU" class="bild" width="150" height="150">
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWyxIDoLK-QLTh7j4Fkn_q0YCPql-52OoSQ&usqp=CAU" alt="Terminator Dänekas" class="bild" width="250" height="250"<figcaption>⠀⠀⠀⠀⠀Terminator Dänekas </figcaption>
+<p></p>
 <p>
 In den Weiten des virtuellen Universums, dort, wo der Quellcode pulsierte und die Algorithmen in der Luft tanzten, entbrannte ein epischer Kampf zwischen Marco Ramon und André Dänekas. Zwei titanische Geister der Informationstechnologie trafen aufeinander, ihre Blicke durchdringen die endlosen Zeilen von Codes, und ihr Wissen spiegelte sich in ihren Augen wider.
 Die Dunkelheit des Raums erbebte, als ihre Fäuste aufeinander trafen, jede Bewegung ein ausgeklügeltes Manöver im Tanz der Daten. Ramon, Meister der Kryptographie, schleuderte mächtige Verschlüsselungen auf Dänekas, der mit blitzschnellen Decodierungen konterte. Worte flogen wie Geschosse zwischen ihnen, ihre Argumente prallten im Äther ab und erzeugten Schockwellen im Code der Realität.
