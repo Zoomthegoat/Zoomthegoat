@@ -64,15 +64,15 @@
     </header>
     <nav>
         <ul>
-            <li><a href="#about">Über uns</a></li>
-            <li><a href="#services">Dienstleistungen</a></li>
-            <li><a href="#contact">Kontakt</a></li>
-            <li><a href="#Ramon1">Gott Ramon</a></li>
-            <li><a href="#Ramon2">Digitale Geburt Ramons </a></li>
-            <li><a href="#Ramon3">Ramon und die 11 Gebote </a></li>
-            <li><a href="#Ramon4">Die digitale Arche Ramons </a></li>
-            <li><a href="#Ramon5">Die digitalen Wunder </a></li>
-            <li><a href="#Ramon6">Todeskampf der Giganten </a></li>
+            <li><a href="about">Über uns</a></li>
+            <li><a href="services">Dienstleistungen</a></li>
+            <li><a href="contact">Kontakt</a></li>
+            <li><a href="Ramon1">Gott Ramon</a></li>
+            <li><a href="Ramon2">Digitale Geburt Ramons </a></li>
+            <li><a href="Ramon3">Ramon und die 11 Gebote </a></li>
+            <li><a href="Ramon4">Die digitale Arche Ramons </a></li>
+            <li><a href="Ramon5">Die digitalen Wunder </a></li>
+            <li><a href="Ramon6">Todeskampf der Giganten </a></li>
         </ul>
     </nav>
     <section id="about">
