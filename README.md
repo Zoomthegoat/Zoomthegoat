@@ -8,8 +8,11 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fimagedelivery.net%2F9sCnq8t6WEGNay0RAQNdvQ%2FUUID-cl8j7k3rh24811kxqywb092a3i%2Fpublic&tbnid=daJj94p4Vf_I0M&vet=10CIwBEDMoqAFqFwoTCOCY8q6ZjIMDFQAAAAAdAAAAABAC..i&imgrefurl=https%3A%2F%2Fwww.prompthunt.com%2Fprompt%2Fcl8j7k3bk24412kxqyn3afr7ou&docid=_yQlotXwnnqQDM&w=512&h=512&q=jesus%20weird&client=firefox-b-d&ved=0CIwBEDMoqAFqFwoTCOCY8q6ZjIMDFQAAAAAdAAAAABAC"), url("paper.gif");
-            background-color: #cccccc;
+            background-image: url('pfad/zum/deinem/bild.jpg');
+            background-size: cover; /* Damit das Bild die gesamte Seite abdeckt */
+            background-position: center; /* Zentriert das Bild */
+            /* Weitere Stile für den Body hier einfügen, falls gewünscht */
+        }
         }
         header {
             background-color: #333;
