@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-image: <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LHw8-1CLveam8uSP0Zz2ki2nluWHDyhTLg&usqp=CAU" >
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LHw8-1CLveam8uSP0Zz2ki2nluWHDyhTLg&usqp=CAU");
             background-size: cover; /* Damit das Bild die gesamte Seite abdeckt */
             background-position: center; /* Zentriert das Bild */
             /* Weitere Stile für den Body hier einfügen, falls gewünscht */
