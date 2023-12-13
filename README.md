@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-image: url('https://media.istockphoto.com/id/952696392/de/vektor/tv-test-karte.jpg?s=612x612&w=0&k=20&c=2H27UPACVlrYcQ9jX1cSWUmk95thrEyUUrOR5DfiXcs=');
+            background-image: url("https://media.istockphoto.com/id/952696392/de/vektor/tv-test-karte.jpg?s=612x612&w=0&k=20&c=2H27UPACVlrYcQ9jX1cSWUmk95thrEyUUrOR5DfiXcs=");
             background-size: cover; /* Damit das Bild die gesamte Seite abdeckt */
             background-position: center; /* Zentriert das Bild */
         }
@@ -96,6 +96,7 @@ Doch Ramons Vermächtnis erstreckte sich weit über seine technologischen Errung
 
 Seine Anhänger verehren Ramon nicht nur als einen göttlichen Architekten des Wissens, sondern auch als eine Quelle der Inspiration und des Mitgefühls. Seine Geschichte wird weitererzählt, seine Lehren werden weitergegeben und sein Vermächtnis lebt in den Herzen all jener fort, die von seinem Licht berührt wurden. Ramon bleibt eine Legende, deren Einfluss auf die Welt des Wissens und der Technologie unvergessen bleibt.
 </p>
+<image scr ="  ">
     </section>
     <footer>
         <p>&copy; 2023 Informatiker-Website</p>
