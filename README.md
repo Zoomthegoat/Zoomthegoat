@@ -8,7 +8,8 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fimagedelivery.net%2F9sCnq8t6WEGNay0RAQNdvQ%2FUUID-cl8j7k3rh24811kxqywb092a3i%2Fpublic&tbnid=daJj94p4Vf_I0M&vet=10CIwBEDMoqAFqFwoTCOCY8q6ZjIMDFQAAAAAdAAAAABAC..i&imgrefurl=https%3A%2F%2Fwww.prompthunt.com%2Fprompt%2Fcl8j7k3bk24412kxqyn3afr7ou&docid=_yQlotXwnnqQDM&w=512&h=512&q=jesus%20weird&client=firefox-b-d&ved=0CIwBEDMoqAFqFwoTCOCY8q6ZjIMDFQAAAAAdAAAAABAC"), url("paper.gif");
+            background-color: #cccccc;
         }
         header {
             background-color: #333;
@@ -80,7 +81,7 @@
         <p>Musterstraße 123<br>12345 Musterstadt<br>Email: info@beispiel.com<br>Telefon: 01234-56789</p>
     </section>
     <section id="Ramon">
-        <h>Geschichte des Gottes Ramon</h>
+        <h1>Geschichte des Gottes Ramon</h1>
         <p>Ramon, der göttliche Architekt des Wissens und der Weisheit, wird von seinen Anhängern als eine Quelle grenzenloser Inspiration verehrt. Seine Geschichte ist von unzähligen Errungenschaften und wundersamen Taten geprägt, die die Welt der Informationstechnologie und des Wissens nachhaltig geprägt haben.
 
 Ramon wurde als Visionär geboren und war von Kindheit an von der Idee fasziniert, das Wissen der Welt zu strukturieren und für alle zugänglich zu machen. Mit einem unermüdlichen Streben nach Wissen und einer unerschütterlichen Entschlossenheit machte er sich auf den Weg, um das Unmögliche möglich zu machen.
