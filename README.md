@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LHw8-1CLveam8uSP0Zz2ki2nluWHDyhTLg&usqp=CAU');
+            background-image: url('https://media.istockphoto.com/id/952696392/de/vektor/tv-test-karte.jpg?s=612x612&w=0&k=20&c=2H27UPACVlrYcQ9jX1cSWUmk95thrEyUUrOR5DfiXcs=');
             background-size: cover; /* Damit das Bild die gesamte Seite abdeckt */
             background-position: center; /* Zentriert das Bild */
         }
