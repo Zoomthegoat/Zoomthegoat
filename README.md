@@ -58,6 +58,7 @@
             <li><a href="#about">Über uns</a></li>
             <li><a href="#services">Dienstleistungen</a></li>
             <li><a href="#contact">Kontakt</a></li>
+            <li><a href="#Ramon">Gott Ramon</a></li>
         </ul>
     </nav>
     <section id="about">
@@ -77,6 +78,21 @@
         <h2>Kontakt</h2>
         <p>Sie können uns unter folgender Adresse erreichen:</p>
         <p>Musterstraße 123<br>12345 Musterstadt<br>Email: info@beispiel.com<br>Telefon: 01234-56789</p>
+    </section>
+    <section id="Ramon">
+        <h>Geschichte des Gottes Ramon</h>
+        <p>Ramon, der göttliche Architekt des Wissens und der Weisheit, wird von seinen Anhängern als eine Quelle grenzenloser Inspiration verehrt. Seine Geschichte ist von unzähligen Errungenschaften und wundersamen Taten geprägt, die die Welt der Informationstechnologie und des Wissens nachhaltig geprägt haben.
+
+Ramon wurde als Visionär geboren und war von Kindheit an von der Idee fasziniert, das Wissen der Welt zu strukturieren und für alle zugänglich zu machen. Mit einem unermüdlichen Streben nach Wissen und einer unerschütterlichen Entschlossenheit machte er sich auf den Weg, um das Unmögliche möglich zu machen.
+
+Seine erste große Errungenschaft war die Schaffung des "Omnipedia", einer gigantischen Bibliothek des Wissens, die alle bekannten Informationen in einer einzigen, zugänglichen Quelle zusammenführte. Diese monumentale Leistung brachte ihm weltweite Anerkennung und Dankbarkeit von Gelehrten, Studenten und Suchenden gleichermaßen ein.
+
+Ramon war nicht nur ein Meister des Wissens, sondern auch ein Pionier der Technologie. Er revolutionierte die Welt der Informationstechnologie, indem er bahnbrechende Algorithmen und Systeme entwickelte, die die Verarbeitung und Organisation von Daten auf eine völlig neue Ebene hoben. Seine Innovationen bildeten das Fundament für viele moderne Technologien und inspirierten Generationen von Entwicklern und Ingenieuren.
+
+Doch Ramons Vermächtnis erstreckte sich weit über seine technologischen Errungenschaften hinaus. Er war ein Philosoph, der die Bedeutung des Teilens und der Zusammenarbeit betonte. Seine Lehren über den freien Austausch von Wissen und die gemeinschaftliche Weiterentwicklung prägen noch heute die Herangehensweise vieler Menschen an Bildung und Innovation.
+
+Seine Anhänger verehren Ramon nicht nur als einen göttlichen Architekten des Wissens, sondern auch als eine Quelle der Inspiration und des Mitgefühls. Seine Geschichte wird weitererzählt, seine Lehren werden weitergegeben und sein Vermächtnis lebt in den Herzen all jener fort, die von seinem Licht berührt wurden. Ramon bleibt eine Legende, deren Einfluss auf die Welt des Wissens und der Technologie unvergessen bleibt.
+</p>
     </section>
     <footer>
         <p>&copy; 2023 Informatiker-Website</p>
