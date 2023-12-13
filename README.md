@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-image: url("https://media.istockphoto.com/id/952696392/de/vektor/tv-test-karte.jpg?s=612x612&w=0&k=20&c=2H27UPACVlrYcQ9jX1cSWUmk95thrEyUUrOR5DfiXcs=");
+            background-color: yellow;
             background-size: cover; /* Damit das Bild die gesamte Seite abdeckt */
             background-position: center; /* Zentriert das Bild */
         }
@@ -77,21 +77,22 @@
     </nav>
     <section id="about">
         <h2>Über uns</h2>
-        <p>Willkommen auf unserer Informatiker-Website! Wir sind ein Team von Experten, das sich mit verschiedenen Aspekten der Informationstechnologie beschäftigt.</p>
+        <p1>Willkommen auf der Website der Rilden-Informatiker! Wir sind ein Team von Experten, das sich mit verschiedenen Aspekten der Programmiersprache Java beschäftigt.</p1>
     </section>
     <section id="services">
-        <h2>Unsere Dienstleistungen</h2>
+        <h2>Unsere Intentionen</h2>
         <ul>
             <li>Softwareentwicklung</li>
-            <li>Netzwerksicherheit</li>
-            <li>Datenbankmanagement</li>
-            <li>Webdesign und -entwicklung</li>
+            <li>bewältigung Abitur 2025</li>
+            <li>Reich werden</li>
+            <li>Schaffung einer eigenen Religion</li>
+            <li> Weltherrschaft </li>
         </ul>
     </section>
     <section id="contact">
         <h2>Kontakt</h2>
         <p>Sie können uns unter folgender Adresse erreichen:</p>
-        <p>Musterstraße 123<br>12345 Musterstadt<br>Email: info@beispiel.com<br>Telefon: 01234-56789</p>
+        <p>Anus-Gym.Ass<br>Merkel-lenz G204<br>Email: info@die-Rilden-Informatiker.com<br>Telefon: 110112111</p>
     </section>
     <section id="Ramon1">
         <h1>Geschichte des Gottes Ramon</h1>
