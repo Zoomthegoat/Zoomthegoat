@@ -12,12 +12,6 @@
             background-size: cover; /* Damit das Bild die gesamte Seite abdeckt */
             background-position: center; /* Zentriert das Bild */
         }
-        .bild {
-            width: 50px; /* Neue Breite */
-            height: auto; /* Automatische Höhe basierend auf der Breite */
-            display: block; /* Setzt das Bild als Blockelement */
-            margin: 20px auto; /* Zentriert das Bild mit einem Abstand von 20px */
-        }
         }
         header {
             background-color: #333;
