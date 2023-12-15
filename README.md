@@ -77,7 +77,9 @@
     </nav>
     <section id="about">
         <h2>Über uns</h2>
-        <p1>Willkommen auf der Website der Rilden-Informatiker! Wir sind ein Team von Experten, das sich mit verschiedenen Aspekten der Programmiersprache Java beschäftigt.</p1>
+        <p1>Willkommen auf der Website der Rilden-Informatiker! Wir sind ein Team von Experten, das sich mit verschiedenen Aspekten der Programmiersprache Java beschäftigt.
+        </p1>
+        <h1>  Wichtig!: Diese Website ist der Unterhaltung vorbehalten und ist nicht ernst zu nehmen</h1>
     </section>
     <section id="services">
         <h2>Unsere Intentionen</h2>
