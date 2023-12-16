@@ -50,16 +50,35 @@
             bottom: 0;
             width: 100%;
         }
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-        background-size: cover;
-        background-position: center;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
+        body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+/* Bilder zentrieren */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Media Queries für verschiedene Geräte */
+@media screen and (max-width: 768px) {
+    /* Anpassungen für kleine Bildschirme oder mobile Geräte */
+    body {
+        padding: 20px; /* Beispiel für zusätzlichen Abstand auf kleinen Bildschirmen */
+
+
     </style>
 </head>
 <body>
